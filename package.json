@@ -1,0 +1,22 @@
+{
+  "name": "cli-numerical-quest",
+  "version": "1.0.1",
+  "description": "This is a cli based numbers guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "project001": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marium fatima",
+  "license": "ISC",
+  "dependencies": {
+    "cli-numerical-quest": "^1.0.1",
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
